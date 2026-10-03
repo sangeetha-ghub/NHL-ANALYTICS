@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+primaryColor = "#1F4E9C"            # blue line
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EEF2F5" # ice
+textColor = "#1B2430"                # boards
+
+[server]
+headless = true

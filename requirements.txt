@@ -1,0 +1,8 @@
+requests>=2.31
+pandas>=2.1
+openpyxl>=3.1          # read .xlsx datasets
+streamlit>=1.40
+streamlit-option-menu>=0.4
+altair>=5.0
+jupyter>=1.0
+pytest>=8.0

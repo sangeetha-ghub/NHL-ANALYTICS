@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# generated database + run report (rebuild with run_pipeline.py)
+data/*.db
+data/*.run.json
+
+# raw API responses and downloaded datasets
+data/raw/api_cache/*
+!data/raw/api_cache/.gitkeep
+data/raw/datasets/*
+!data/raw/datasets/.gitkeep
